@@ -1,4 +1,3 @@
-
 package file.handling.input;
 
 import java.io.*;
@@ -20,6 +19,7 @@ public class FileHandlingInput {
                 System.out.println((char)i);
                 
                 fis.close();
+               
             }
         }
         
